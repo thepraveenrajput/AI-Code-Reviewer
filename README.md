@@ -24,7 +24,7 @@ npm or yarn
 
 Installation
 Clone the repo:
-git clone https://github.com/yourusername/ai-code-reviewer.git
+git clone https://github.com/thepraveenrajput/ai-code-reviewer.git
 cd ai-code-reviewer
 
 Install frontend dependencies:
